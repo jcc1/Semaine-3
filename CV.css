@@ -1,0 +1,27 @@
+body {
+    background-color: #B8D5F5;
+}
+header {
+    background-color: #3D96F5;
+    padding: 10px;
+    font-family: Verdana;
+    text-align: center;
+    color: #102740;
+}
+ul li {
+    list-style-type: circle;
+}
+h3 {
+    color: #102740;
+    font-family: Cursive;
+}
+footer {
+    background-color: #3D96F5;
+    padding-top: 10px;
+    font-family: Verdana;
+    text-align: center;
+    color: #102740;
+    margin: 10px;
+    height: 150px;
+    font-size: -20px;
+}
